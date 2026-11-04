@@ -1,0 +1,24 @@
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Local cache
+**/cache/
+
+# RStudio preview
+README.html
+
+# Large local geospatial datasets
+data/**/*.gpkg
+
+# System files
+.DS_Store
+Thumbs.db
+# Raw downloaded datasets
+data/**/*.csv.gz
+data/**/*.osm.pbf
