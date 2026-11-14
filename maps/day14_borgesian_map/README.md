@@ -1,3 +1,4 @@
+
 # La Carte Infinie — Paris
 
 **30DayMapChallenge 2026 | Day 14 — Borgesian Map**
@@ -14,7 +15,7 @@ The project includes an interactive 3D map and a 2D editorial poster.
 
 ## Interactive Map
 
-[Explore La Carte Infinie — Paris](exports/Paris_La_Carte_Infinie_PUBLISH.html)
+### [Explore the Interactive 3D Map — La Carte Infinie, Paris](https://alalajmi15.github.io/Riyadh-30DayMapChallenge-2026/maps/day14_borgesian_map/exports/Paris_La_Carte_Infinie_PUBLISH.html)
 
 The interactive map includes:
 
@@ -24,6 +25,7 @@ The interactive map includes:
 - Selected Paris landmarks
 - Zoom-dependent map details
 - Interactive navigation and camera controls
+- Bilingual French and English information panels
 
 **Note:** Building heights are illustrative (15 meters), not measured heights.
 
@@ -37,14 +39,14 @@ The poster presents three connected geographic scales:
 2. **The District** — Louvre neighborhood
 3. **The Details** — Individual urban features
 
-[Download Poster PDF](exports/Day14_La_Carte_Infinie_Paris_Poster.pdf)
+[Download the Poster (PDF)](exports/Day14_La_Carte_Infinie_Paris_Poster.pdf)
 
 ## Study Area
 
-- Location: Paris, France
-- Approximate area: 48 km²
-- Study extent: 8 × 6 km
-- Coordinate reference system for spatial analysis: EPSG:2154
+- **Location:** Paris, France
+- **Approximate area:** 48 km²
+- **Study extent:** 8 × 6 km
+- **Coordinate reference system:** EPSG:2154
 
 ## Data and Tools
 
@@ -56,7 +58,13 @@ The poster presents three connected geographic scales:
 
 ## Limitations
 
-OpenStreetMap data completeness varies across locations. The interactive building heights are illustrative, and the highlighted study boundary does not restrict navigation beyond the study area.
+OpenStreetMap data completeness varies across locations.
+
+The interactive building heights are illustrative and do not represent actual measured heights.
+
+The highlighted study boundary is a visual reference and does not restrict navigation beyond the study area.
+
+This project is a creative cartographic interpretation of the Borgesian Map concept rather than a geographically exhaustive or 1:1 representation of Paris.
 
 ## Author
 
@@ -65,4 +73,4 @@ OpenStreetMap data completeness varies across locations. The interactive buildin
 Master of Urban Spatial Analytics (MUSA)  
 University of Pennsylvania
 
-**30DayMapChallenge 2026**
+**30DayMapChallenge 2026 | Day 14 — Borgesian Map**
